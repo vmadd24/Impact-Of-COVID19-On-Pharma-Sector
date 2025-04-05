@@ -8,7 +8,18 @@ The analysis uses moving averages, RSI, CCI, and other metrics to understand mar
 
 ---
 
-## Technologies Used 🚀
+## Skills Used 🚀
+
+✔️ Python  
+✔️ Data Visualization  
+✔️ Exploratory Data Analysis (EDA)  
+✔️ Trend Analysis  
+✔️ Statistical Analysis  
+✔️ Hypothesis Testing
+
+---
+
+## Technologies Used 🛠️
 
 ✔️ Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Plotly)  
 ✔️ Jupyter Notebook  
@@ -43,6 +54,18 @@ The analysis uses moving averages, RSI, CCI, and other metrics to understand mar
   - **Shapiro-Wilk Test:** Assessed normality of stock returns.  
   - **Wilcoxon Signed-Rank Test:** Compared stock prices before and after COVID-19.  
   - **Rank-Biserial Correlation:** Quantified the impact of COVID-19 on stock prices.
+
+---
+
+## Hypothesis Testing 🔬
+
+### Null Hypothesis (H₀)
+🚫 **COVID-19 did not have a significant impact** on the stock prices of the NIFTY Pharma Index.
+
+### Alternate Hypothesis (H₁)
+✅ **COVID-19 had a significant impact** on the stock prices of the NIFTY Pharma Index.
+
+The **Shapiro-Wilk** test and **Wilcoxon Signed-Rank Test** were conducted to test the null hypothesis at a **95% confidence level**. The results indicated that the impact of COVID-19 on the pharma sector’s stock prices was statistically significant.
 
 ---
 
